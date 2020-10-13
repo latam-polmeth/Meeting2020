@@ -31,9 +31,9 @@ To acommodate conditions brought about by the COVID-19 pandemic, we have moved o
 ### Event format
 The event will feature **hour-long, parallel paper workshops**, which will be restricted to registered participants. During these sessions, previously circulated manuscipts will be actively discussed, and **no presentation will take place**. It is therefore imperative that **all participants read the papers in advance**, and prepare feedback to ensure a lively and engaging discussion. In order to avoid online fatigue, we have distributed workshops across three days, with a morning and an afternoon session on each day. 
 
-The event will also feature three keynote presentations, and a poster session November 20th.  
+The event will also feature **three keynote presentations** on November 17, 18, and 20, as well as a **student poster session** on November 20.  
 
-All talks and sessions will be held in English.
+All talks and sessions will be held in English in our virtual conference site at Degy World.
 
 
 ### Organizing team
