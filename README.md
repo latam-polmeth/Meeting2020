@@ -5,7 +5,7 @@
 # Latin American Political Methodology Meeting
 
 
-Welcome! We are excited to announce the fourth Latin American PolMeth meeting. The event will take place on November 17 -- 20 of 2020 in Degy World, a virtual conference campus. It is hosted by the Universidade de Sāo Paulo, with support from the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill. 
+Welcome! We are excited to announce the fourth Latin American PolMeth meeting. The event will take place on **November 17--20, 2020 in Degy World, a virtual conference campus**. It is hosted by the Universidade de Sāo Paulo, with support from the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill. 
 
 The meeting will feature paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists, including SPM president [Suzzana Linn](https://polisci.la.psu.edu/people/sld8) (Penn State), [Arthur Spirling](http://arthurspirling.org/) (NYU), and [Noam Lupu](https://www.noamlupu.com/) (Vanderbilt). 
 
@@ -38,9 +38,9 @@ All talks and sessions will be held in English.
 
 ### Organizing team
 
-- Santiago López Cariboni (Universidad Católica del Uruguay)
-- Carmen Le Foulon (Universidad Católica de Chile)
-- Lorena Barberia (Universidade de São Paulo)
+- Lorena Barberia (Universidade de São Paulo, Brazil)
+- Santiago López Cariboni (Universidad de la República, Uruguay)
+- Carmen Le Foulon (Centro de Estudios Públicos, Chile)
 - Santiago Olivella (University of North Carolina at Chapel Hill, USA)
 
 ### Sponsors
