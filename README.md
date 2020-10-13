@@ -2,7 +2,7 @@
 ---
 <img src="LAPolMeth_Logo.png" alt="LAPolMeth"> 
 
-# Latin American Political Methodology Meeting
+# Latin American Political Methodology Meeting, 2020
 
 
 Welcome! We are excited to announce the fourth Latin American PolMeth meeting. The event will take place on **November 17--20, 2020 in Degy World, a virtual conference campus**. It is hosted by the Universidade de Sāo Paulo, with support from the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill. 
