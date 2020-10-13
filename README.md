@@ -29,7 +29,7 @@ To acommodate conditions brought about by the COVID-19 pandemic, we have moved o
 **Poster presenters will receive additional information on how to format their posters** for an optimal experience in our virtual expo hall.  
 
 ### Event format
-The event will feature **hour-long, parallel paper workshops**, which will be restricted to registered participants. During these sessions, previously circulated manuscipts will be actively discussed, and **no presentation will take place**. It is therefore imperative that **all participants read the papers in advance**, and prepare feedback to ensure a lively and engaging discussion. In order to avoid online fatigue, we have distributed workshops across three days, with a morning and an afternoon session on each day. 
+The event will feature **hour-long, parallel paper workshops**, which will be restricted to registered participants. In order to avoid online fatigue, we have distributed workshops across three days, with a morning and an afternoon session on each day. During these sessions, previously circulated manuscipts will be actively discussed, and **no presentation will take place**. It is therefore imperative that **all participants read the papers in advance**, and prepare feedback to ensure a lively and engaging discussion. To enable all participants to engage in productive conversation, **authors are expected to submit complete drafts of their manuscripts no later than November 2, 2020**. Authors will be provided with information on where to upload their manuscripts upon confirmation of acceptance.
 
 The event will also feature **three keynote presentations** on November 17, 18, and 20, as well as a **student poster session** on November 20.  
 
