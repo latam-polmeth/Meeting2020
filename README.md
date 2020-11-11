@@ -13,7 +13,7 @@ The meeting will feature paper workshops, a poster session for graduate students
 Applications are now **closed**. 
 
 ## Register
-Registration for this event is free for SPM members. To become a member, and to register for the event, please visit our [Cambridge Core Registration Site](https://www.cambridge.org/core/membership/spm/register).
+Registration for this event is now **closed**.
 
 ## Program
 
